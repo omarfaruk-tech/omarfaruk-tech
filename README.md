@@ -7,7 +7,9 @@ I am an IT professional with more than 11 years of experience mainly in Cloud & 
 Skills: AWS, Docker, Kubernetes, Ansible, Jenkins, Git
 
 - 🔭 I’m currently working on Bangladesh Computer Council 
-- 👯 I’m looking to collaborate on GitHub 
+- 👯 I’m looking to collaborate on GitHub
+- 💬 Ask me about AWS, Docker, Kubernetes, Ansible, Jenkins 
+- 📫 How to reach me: omfk24@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/omarfaruk-tech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-omar-faruk016//)  
