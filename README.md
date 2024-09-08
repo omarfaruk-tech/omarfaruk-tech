@@ -1,6 +1,6 @@
 ## Hi there 👋, This is Omar Faruk
 ### I am a Cloud, DevOps Engineer.
-![I am Cloud, DevOps Engineer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Cloud, DevOps Engineer.](https://scontent.fdac88-1.fna.fbcdn.net/v/t31.18172-8/12418943_10206008196261069_8476194009097479231_o.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeHlSjZqRSk02rlYn2yJBDadfSxS4GrmvsJ9LFLgaua-wn_HY2GnQrhMjwaPiN73488&_nc_ohc=7mpdhBMyKtIQ7kNvgG06_d_&_nc_ht=scontent.fdac88-1.fna&oh=00_AYB-So2wvAj3TrIZ0ojd4Rj7t2bnJMw_uHEy7ObxDVpejQ&oe=6704A901)
 
 I am an IT professional with more than 11 years of experience mainly in Cloud & Networking. Have expertise in AWS, GCP, Docker, Cisco, Huawei, MikroTik, Windows, and Linux.
 
